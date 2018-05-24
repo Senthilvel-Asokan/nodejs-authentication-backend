@@ -1,0 +1,21 @@
+{
+  "name": "node-rest-auth",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "2.4.3",
+    "body-parser": "~1.9.2",
+    "express": "~4.9.8",
+    "jwt-simple": "0.3.1",
+    "kerberos": "0.0.23",
+    "mongodb": "3.1.0-beta4",
+    "mongoose": "~4.2.4",
+    "morgan": "~1.5.0",
+    "node-gyp": "3.6.2",
+    "passport": "0.4.0",
+    "passport-jwt": "4.0.0",
+    "python": "0.0.4",
+    "touch": "3.1.0",
+    "windows-build-tools": "2.3.0"
+  }
+}
